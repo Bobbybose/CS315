@@ -1,0 +1,371 @@
+turn 1: player 2 sends a card to 3, from top
+	player 1: weight: 55
+	player 2: weight: 40
+	player 3: weight: 71
+	player 4: weight: 55
+turn 2: player 3 sends a card to 1, from top
+	player 1: weight: 71
+	player 2: weight: 40
+	player 3: weight: 55
+	player 4: weight: 55
+turn 3: player 2 sends a card to 3, from top
+	player 1: weight: 71
+	player 2: weight: 26
+	player 3: weight: 72
+	player 4: weight: 55
+turn 4: player 2 sends a card to 2, from bottom
+	player 1: weight: 71
+	player 2: weight: 23
+	player 3: weight: 72
+	player 4: weight: 55
+turn 5: player 4 sends a card to 2, from bottom
+	player 1: weight: 71
+	player 2: weight: 40
+	player 3: weight: 72
+	player 4: weight: 30
+turn 6: player 4 sends a card to 3, from bottom
+	player 1: weight: 71
+	player 2: weight: 40
+	player 3: weight: 93
+	player 4: weight: 14
+turn 7: player 1 sends a card to 2, from top
+	player 1: weight: 55
+	player 2: weight: 58
+	player 3: weight: 93
+	player 4: weight: 14
+turn 8: player 4 sends a card to 4, from bottom
+	player 1: weight: 55
+	player 2: weight: 58
+	player 3: weight: 93
+	player 4: weight: 11
+turn 9: player 3 sends a card to 3, from bottom
+	player 1: weight: 55
+	player 2: weight: 58
+	player 3: weight: 79
+	player 4: weight: 11
+turn 10: player 3 sends a card to 4, from top
+	player 1: weight: 55
+	player 2: weight: 58
+	player 3: weight: 58
+	player 4: weight: 22
+turn 11: player 3 sends a card to 4, from top
+	player 1: weight: 55
+	player 2: weight: 58
+	player 3: weight: 42
+	player 4: weight: 37
+turn 12: player 3 sends a card to 3, from top
+	player 1: weight: 55
+	player 2: weight: 58
+	player 3: weight: 42
+	player 4: weight: 37
+turn 13: player 4 sends a card to 1, from top
+	player 1: weight: 74
+	player 2: weight: 58
+	player 3: weight: 42
+	player 4: weight: 22
+turn 14: player 2 sends a card to 2, from bottom
+	player 1: weight: 74
+	player 2: weight: 56
+	player 3: weight: 42
+	player 4: weight: 22
+turn 15: player 2 sends a card to 3, from bottom
+	player 1: weight: 74
+	player 2: weight: 41
+	player 3: weight: 57
+	player 4: weight: 22
+turn 16: player 1 sends a card to 1, from top
+	player 1: weight: 74
+	player 2: weight: 41
+	player 3: weight: 57
+	player 4: weight: 22
+turn 17: player 3 sends a card to 3, from bottom
+	player 1: weight: 74
+	player 2: weight: 41
+	player 3: weight: 48
+	player 4: weight: 22
+turn 18: player 3 sends a card to 1, from top
+	player 1: weight: 97
+	player 2: weight: 41
+	player 3: weight: 33
+	player 4: weight: 22
+turn 19: player 2 sends a card to 4, from bottom
+	player 1: weight: 97
+	player 2: weight: 21
+	player 3: weight: 33
+	player 4: weight: 38
+turn 20: player 3 sends a card to 1, from bottom
+	player 1: weight: 123
+	player 2: weight: 21
+	player 3: weight: 18
+	player 4: weight: 38
+turn 21: player 4 sends a card to 2, from bottom
+	player 1: weight: 123
+	player 2: weight: 33
+	player 3: weight: 18
+	player 4: weight: 28
+turn 22: player 1 sends a card to 1, from bottom
+	player 1: weight: 109
+	player 2: weight: 33
+	player 3: weight: 18
+	player 4: weight: 28
+turn 23: player 4 sends a card to 3, from bottom
+	player 1: weight: 109
+	player 2: weight: 33
+	player 3: weight: 27
+	player 4: weight: 24
+turn 24: player 4 sends a card to 2, from bottom
+	player 1: weight: 109
+	player 2: weight: 48
+	player 3: weight: 27
+	player 4: weight: 15
+turn 25: player 3 sends a card to 3, from bottom
+	player 1: weight: 109
+	player 2: weight: 48
+	player 3: weight: 26
+	player 4: weight: 15
+turn 26: player 4 sends a card to 3, from top
+	player 1: weight: 109
+	player 2: weight: 48
+	player 3: weight: 40
+	player 4: weight: 5
+turn 27: player 1 sends a card to 2, from bottom
+	player 1: weight: 77
+	player 2: weight: 67
+	player 3: weight: 40
+	player 4: weight: 5
+turn 28: player 1 sends a card to 2, from bottom
+	player 1: weight: 56
+	player 2: weight: 89
+	player 3: weight: 40
+	player 4: weight: 5
+turn 29: player 1 sends a card to 4, from bottom
+	player 1: weight: 44
+	player 2: weight: 89
+	player 3: weight: 40
+	player 4: weight: 12
+turn 30: player 4 sends a card to 3, from bottom
+	player 1: weight: 44
+	player 2: weight: 89
+	player 3: weight: 59
+	player 4: weight: 2
+turn 31: player 1 sends a card to 4, from bottom
+	player 1: weight: 39
+	player 2: weight: 89
+	player 3: weight: 59
+	player 4: weight: 5
+turn 32: player 1 sends a card to 1, from bottom
+	player 1: weight: 39
+	player 2: weight: 89
+	player 3: weight: 59
+	player 4: weight: 5
+turn 33: player 2 sends a card to 3, from top
+	player 1: weight: 39
+	player 2: weight: 67
+	player 3: weight: 81
+	player 4: weight: 5
+turn 34: player 2 sends a card to 4, from top
+	player 1: weight: 39
+	player 2: weight: 48
+	player 3: weight: 81
+	player 4: weight: 12
+turn 35: player 3 sends a card to 4, from top
+	player 1: weight: 39
+	player 2: weight: 48
+	player 3: weight: 59
+	player 4: weight: 22
+turn 36: player 4 sends a card to 2, from top
+	player 1: weight: 39
+	player 2: weight: 66
+	player 3: weight: 59
+	player 4: weight: 12
+turn 37: player 3 sends a card to 2, from top
+	player 1: weight: 39
+	player 2: weight: 89
+	player 3: weight: 40
+	player 4: weight: 12
+turn 38: player 3 sends a card to 3, from bottom
+	player 1: weight: 39
+	player 2: weight: 89
+	player 3: weight: 48
+	player 4: weight: 12
+turn 39: player 1 sends a card to 3, from top
+	player 1: weight: 23
+	player 2: weight: 89
+	player 3: weight: 66
+	player 4: weight: 12
+turn 40: player 1 sends a card to 4, from top
+	player 1: weight: 11
+	player 2: weight: 89
+	player 3: weight: 66
+	player 4: weight: 24
+turn 41: player 3 sends a card to 1, from top
+	player 1: weight: 22
+	player 2: weight: 89
+	player 3: weight: 48
+	player 4: weight: 24
+turn 42: player 3 sends a card to 2, from bottom
+	player 1: weight: 22
+	player 2: weight: 114
+	player 3: weight: 36
+	player 4: weight: 24
+turn 43: player 1 sends a card to 2, from bottom
+	player 1: weight: 10
+	player 2: weight: 143
+	player 3: weight: 36
+	player 4: weight: 24
+turn 44: player 3 sends a card to 2, from top
+	player 1: weight: 10
+	player 2: weight: 173
+	player 3: weight: 24
+	player 4: weight: 24
+turn 45: player 3 sends a card to 1, from bottom
+	player 1: weight: 20
+	player 2: weight: 173
+	player 3: weight: 12
+	player 4: weight: 24
+turn 46: player 2 sends a card to 1, from top
+	player 1: weight: 31
+	player 2: weight: 143
+	player 3: weight: 12
+	player 4: weight: 24
+turn 47: player 4 sends a card to 4, from bottom
+	player 1: weight: 31
+	player 2: weight: 143
+	player 3: weight: 12
+	player 4: weight: 28
+turn 48: player 2 sends a card to 4, from bottom
+	player 1: weight: 31
+	player 2: weight: 98
+	player 3: weight: 12
+	player 4: weight: 45
+turn 49: player 1 sends a card to 2, from bottom
+	player 1: weight: 19
+	player 2: weight: 125
+	player 3: weight: 12
+	player 4: weight: 45
+turn 50: player 2 sends a card to 3, from bottom
+	player 1: weight: 19
+	player 2: weight: 116
+	player 3: weight: 21
+	player 4: weight: 45
+turn 51: player 3 sends a card to 1, from top
+	player 1: weight: 28
+	player 2: weight: 116
+	player 3: weight: 12
+	player 4: weight: 45
+turn 52: player 3 sends a card to 2, from bottom
+	player 1: weight: 28
+	player 2: weight: 143
+	player 3: weight: 9
+	player 4: weight: 45
+turn 53: player 3 sends a card to 1, from top
+	player 1: weight: 42
+	player 2: weight: 143
+	player 3: weight: 2
+	player 4: weight: 45
+turn 54: player 4 sends a card to 4, from bottom
+	player 1: weight: 42
+	player 2: weight: 143
+	player 3: weight: 2
+	player 4: weight: 57
+turn 55: player 4 sends a card to 1, from top
+	player 1: weight: 57
+	player 2: weight: 143
+	player 3: weight: 2
+	player 4: weight: 40
+turn 56: player 2 sends a card to 3, from bottom
+	player 1: weight: 57
+	player 2: weight: 107
+	player 3: weight: 8
+	player 4: weight: 40
+turn 57: player 4 sends a card to 4, from bottom
+	player 1: weight: 57
+	player 2: weight: 107
+	player 3: weight: 8
+	player 4: weight: 40
+turn 58: player 1 sends a card to 3, from bottom
+	player 1: weight: 33
+	player 2: weight: 107
+	player 3: weight: 18
+	player 4: weight: 40
+turn 59: player 3 sends a card to 1, from bottom
+	player 1: weight: 46
+	player 2: weight: 107
+	player 3: weight: 12
+	player 4: weight: 40
+turn 60: player 1 sends a card to 3, from bottom
+	player 1: weight: 28
+	player 2: weight: 107
+	player 3: weight: 23
+	player 4: weight: 40
+turn 61: player 3 sends a card to 3, from top
+	player 1: weight: 28
+	player 2: weight: 107
+	player 3: weight: 23
+	player 4: weight: 40
+turn 62: player 2 sends a card to 2, from top
+	player 1: weight: 28
+	player 2: weight: 107
+	player 3: weight: 23
+	player 4: weight: 40
+turn 63: player 2 sends a card to 3, from top
+	player 1: weight: 28
+	player 2: weight: 84
+	player 3: weight: 35
+	player 4: weight: 40
+turn 64: player 1 sends a card to 3, from bottom
+	player 1: weight: 23
+	player 2: weight: 84
+	player 3: weight: 48
+	player 4: weight: 40
+turn 65: player 4 sends a card to 3, from bottom
+	player 1: weight: 23
+	player 2: weight: 84
+	player 3: weight: 66
+	player 4: weight: 20
+turn 66: player 1 sends a card to 1, from top
+	player 1: weight: 23
+	player 2: weight: 84
+	player 3: weight: 66
+	player 4: weight: 20
+turn 67: player 3 sends a card to 4, from top
+	player 1: weight: 23
+	player 2: weight: 84
+	player 3: weight: 48
+	player 4: weight: 36
+turn 68: player 1 sends a card to 2, from top
+	player 1: weight: 14
+	player 2: weight: 108
+	player 3: weight: 48
+	player 4: weight: 36
+turn 69: player 1 sends a card to 3, from top
+	player 1: weight: 7
+	player 2: weight: 108
+	player 3: weight: 62
+	player 4: weight: 36
+turn 70: player 2 sends a card to 4, from bottom
+	player 1: weight: 7
+	player 2: weight: 92
+	player 3: weight: 62
+	player 4: weight: 54
+turn 71: player 1 sends a card to 2, from bottom
+	player 1: weight: 5
+	player 2: weight: 115
+	player 3: weight: 62
+	player 4: weight: 54
+turn 72: player 3 sends a card to 1, from top
+	player 1: weight: 11
+	player 2: weight: 115
+	player 3: weight: 48
+	player 4: weight: 54
+turn 73: player 1 sends a card to 4, from top
+	player 1: weight: 5
+	player 2: weight: 115
+	player 3: weight: 48
+	player 4: weight: 73
+turn 74: player 1 sends a card to 2, from top
+	player 1: weight: 0
+	player 2: weight: 143
+	player 3: weight: 48
+	player 4: weight: 73
+Game is over; player 1 has no cards left.
